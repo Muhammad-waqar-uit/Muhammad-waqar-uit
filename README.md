@@ -18,6 +18,12 @@ My name is Muhammad Waqar 😁, An undergradute Software Engineering student �
 
 <h3 align="center">Technologies & Tools 🛠</h3>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
 
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 </br>
