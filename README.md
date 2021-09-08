@@ -7,13 +7,15 @@
 
 My name is Muhammad Waqar 😁, An undergradute Software Engineering student 🧑‍💻 [@UIT](https://www.uit.edu/).I'm Developer Student Club Member at UIT🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc). I am Manga/Anime Fan 💫, book lover 📚, DC Comic & Movies Watcher 📚. I'm a Software Engineer who likes to work on Mobile Apps and Web designs 🧑‍💻. I also like solve challenging problems 🙅‍♂️. Currently, learning Full Stack web programming & Flutter 👨‍🔧. Passionate to learn new techniques to get better 👨‍🏫.
 
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e477x5qcinm6rvb2df3dxei18jl5fta4i6r879w7s6f&rid=giphy.gif&ct=g" alt="GIF">
+
 **Personal Interest:**
 
-- 👨🏽‍🌱 I’m currently Exploring Full-Stack Engineering and FLutter. 
+- 👨‍🔧 💻 I’m currently Exploring Full-Stack Engineering and FLutter. 
 - 💬 Ask me about Python Development, Front-End, FLutter, and ofcourse my favourite Animes😅.
 - 📫 How to reach me: muwaqar@students.uit.edu;
 - 🏳️‍🌈 Pronouns: He / Him.
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e477x5qcinm6rvb2df3dxei18jl5fta4i6r879w7s6f&rid=giphy.gif&ct=g" alt="GIF">
+
 
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 </br>
