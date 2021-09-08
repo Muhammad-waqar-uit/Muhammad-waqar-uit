@@ -1,1 +1,1 @@
-<h1 style="text-align: center;">Hey! Muhammad Waqar Here.😃</h1>
+<h1 align="center">Hey! Muhammad Waqar Here.😃</h1>
