@@ -5,4 +5,5 @@
 # Who am I? 😄
 
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
+</br>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
