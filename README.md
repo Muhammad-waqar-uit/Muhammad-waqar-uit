@@ -7,7 +7,7 @@
 
 My name is Muhammad Waqar. I live in Karachi, Pakistan. I am Manga/Anime Fan, book lover, DC Comic & Movies Watcher. I'm a Software Engineer who likes to work on Mobile Apps and Web designs. I also like solve challenging problems. Currently, learning Full Stack web programming & Flutter. Passionate to learn new techniques to get better.
 
-<video align="right" width="320" height="240"><source src="https://previews.customer.envatousercontent.com/h264-video-previews/b1c08d28-f9ed-4db3-b488-e7cdffa819a6/14563792.mp4"></video>
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e477x5qcinm6rvb2df3dxei18jl5fta4i6r879w7s6f&rid=giphy.gif&ct=g" alt="GIF">
 
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 </br>
