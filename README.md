@@ -1,8 +1,9 @@
 <h1 align="center">Hey! Muhammad Waqar Here.😃</h1>
 
 <h3 align="center">Software Developer Engineer From Karachi,Pakistan.</h3>
-
+<br>
 # Who am I? 😄
+-My name is Muhammad Waqar. I live in Karachi, Pakistan. I am Manga/Anime Fan, book lover, DC Comic & Movies Watcher. I'm a Software Engineer who likes to work on Mobile Apps and Web designs. I also like solve challenging problems. Currently, learning Full Stack web programming & Flutter. Passionate to learn new techniques to get better.
 
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 </br>
