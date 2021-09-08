@@ -16,7 +16,12 @@ My name is Muhammad Waqar 😁, An undergradute Software Engineering student �
 - 📫 How to reach me: muwaqar@students.uit.edu;
 - 🏳️‍🌈 Pronouns: He / Him.
 - <p align="left"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> Dota2 Player🎮</p>
+
+
+
+
 <h3 align="center">Technologies & Tools 🛠</h3>
+<div align-item="row">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +33,7 @@ My name is Muhammad Waqar 😁, An undergradute Software Engineering student �
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
+</div>
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 </br>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
