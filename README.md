@@ -38,6 +38,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-waqar-uit&layout=compact)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-waqar-uit&&theme=xcode)](https://github.com/Muhammad-waqar-uit)
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
 
