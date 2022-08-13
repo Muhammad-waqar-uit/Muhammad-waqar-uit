@@ -31,6 +31,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 [![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
