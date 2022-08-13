@@ -33,7 +33,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-[![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
+[![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit&&show_icons=true&theme=dracula)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-waqar-uit&layout=compact)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
