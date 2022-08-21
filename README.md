@@ -51,5 +51,5 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <a href="https://www.instagram.com/imwaqar16/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ImWaqar16" height="30" width="40" /></a>
 
 
-<h1>My Personal Blog</h1>
-<a href='https://codeminions.hashnode.dev/'><h1>Blog</h1></a>
+<h3>My Personal Blog</h3>
+<a href='https://codeminions.hashnode.dev/' >Blog</a>
