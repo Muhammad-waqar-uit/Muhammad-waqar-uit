@@ -52,4 +52,4 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 
 
 <h1>My Personal Blog</h1>
-<a href='https://codeminions.hashnode.dev/'>Blog</a>
+<a href='https://codeminions.hashnode.dev/'><h1>Blog</h1></a>
