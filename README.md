@@ -43,7 +43,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 
 [![Waqar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-waqar-uit&&theme=xcode)](https://github.com/Muhammad-waqar-uit)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-waqar-uit&&theme=tokyonight" alt="Muhammad-waqar-uit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&&theme=tokyonight" alt="Muhammad-waqar-uit" /></p>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
 
