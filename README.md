@@ -35,7 +35,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
 
-![Muhammad Waqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-waqar-uit&show_icons=true&theme=dracula)
+![Muhammad Waqar's stats](https://github-readme-stats.vercel.app/api?username=muhammad-waqar-uit&show_icons=true&theme=dracula)
 
 </br>
 
