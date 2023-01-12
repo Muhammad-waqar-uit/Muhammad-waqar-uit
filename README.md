@@ -40,9 +40,9 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-waqar-uit&theme=tokyonight)
-[![Waqar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muhammad-waqar-uit&theme=github-compact)](https://github.com/Muhammad-waqar-uit)
+[![Waqar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhammad-waqar-uit&theme=github-compact)](https://github.com/Muhammad-waqar-uit)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-waqar-uit&&theme=tokyonight" alt="Muhammad-waqar-uit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-waqar-uit&&theme=tokyonight" alt="Muhammad-waqar-uit" /></p>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
 
