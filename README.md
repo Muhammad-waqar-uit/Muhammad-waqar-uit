@@ -33,6 +33,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 </div>
 
 ![Muhammad Waqar's stats](https://github-readme-stats.vercel.app/api?username=muhammad-waqar-uit&show_icons=true&theme=dracula)
