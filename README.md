@@ -7,7 +7,7 @@
 
 My name is Muhammad Waqar 😁, An undergraduate Software Engineering student 🧑‍💻 [@UIT](https://www.uit.edu/).I'm Developer Student Club Member at UIT🙍🏽‍♂️ [@googledevelopers](https://developers.google.com/community/dsc). I am Manga/Anime Fan 💫, book lover 📚, DC Comic & Movies Watcher 📚. I'm a Software Engineer who likes to work on Mobile Apps and Web designs 🧑‍💻. I also like to solve challenging problems 🙅‍♂️. Currently, learning Full Stack Web Programming & Flutter 👨‍🔧. Passionate to learn new techniques to get better 👨‍🏫.
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e477x5qcinm6rvb2df3dxei18jl5fta4i6r879w7s6f&rid=giphy.gif&ct=g" alt="GIF" width=250 height=250>
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e477x5qcinm6rvb2df3dxei18jl5fta4i6r879w7s6f&rid=giphy.gif&ct=g" alt="GIF" width=400 height=250>
 
 **Personal Interest:**
 
