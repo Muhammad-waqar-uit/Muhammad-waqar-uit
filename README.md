@@ -56,7 +56,9 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-waqar-uit&&theme=tokyonight" alt="Muhammad-waqar-uit" /></p>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
+<div style="margin : 50px 50px 50px 50px">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-waqar-uit" alt="muhammad-waqar-uit" /></a> </p>
+<div>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/MW4Q4R" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Muhammad_Waqar" height="30" width="40" /></a>
@@ -64,9 +66,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <a href="https://www.facebook.com/muhammad.waqarkhan.796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="WaqarKhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imwaqar16/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ImWaqar16" height="30" width="40" /></a>
 
-<div style="margin : 50px 50px 50px 50px">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-waqar-uit" alt="muhammad-waqar-uit" /></a> </p>
-<div>
+
 
 
 <h3>My Personal Blog</h3>
