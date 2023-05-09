@@ -64,8 +64,6 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 <a href="https://www.facebook.com/muhammad.waqarkhan.796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="WaqarKhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imwaqar16/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ImWaqar16" height="30" width="40" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-waqar-uit&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Waqar" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-waqar-uit" alt="muhammad-waqar-uit" /></a> </p>
 
 <h3>My Personal Blog</h3>
