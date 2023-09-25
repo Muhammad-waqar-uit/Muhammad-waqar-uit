@@ -13,7 +13,7 @@ My name is Muhammad Waqar 😁, An undergraduate Software Engineering student �
 
 - 👨‍🔧 💻 I’m currently Exploring Full-Stack Engineering and Flutter. 
 - 💬 Ask me about Python Development, Front-End, Flutter, and of-course my favourite Animes😅.
-- 📫 How to reach me: muwaqar@students.uit.edu;
+- 📫 How to reach me: muhammadwaqar.business@gmail.com
 - 🏳️‍🌈 Pronouns: He / Him.
 - <p align="left"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> Dota2 Player🎮</p>
 
