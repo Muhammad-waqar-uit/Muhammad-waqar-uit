@@ -55,7 +55,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
 
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-waqar-uit&&theme=tokyonight" alt="Muhammad-waqar-uit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-waqar-uit&&theme=light" alt="Muhammad-waqar-uit" /></p>
 
 <div style="margin : 50px 50px 50px 50px">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-waqar-uit" alt="muhammad-waqar-uit" /></a> </p>
