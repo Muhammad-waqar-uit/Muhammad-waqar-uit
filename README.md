@@ -51,7 +51,7 @@ My name is Muhammad Waqar ğŸ˜, An undergraduate Software Engineering student ğŸ
   
 </div>
 
-![Muhammad Waqar's stats](https://github-readme-stats.vercel.app/api?username=muhammad-waqar-uit&show_icons=true&theme=dracula)
+![Muhammad Waqar's stats](https://github-readme-stats.vercel.app/api?username=muhammad-waqar-uit&show_icons=true&theme=light)
 
 </br>
 
