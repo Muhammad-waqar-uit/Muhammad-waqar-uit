@@ -35,11 +35,6 @@ I'm a software engineer specializing in full-stack web development and Web3/bloc
 <br>
 
 ### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-waqar-uit&show_icons=true&theme=default" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-waqar-uit&theme=default" alt="Muhammad Waqar's streak stats" />
 </p>
@@ -49,7 +44,6 @@ I'm a software engineer specializing in full-stack web development and Web3/bloc
 ### Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammadw4qar/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-w4qar/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/MW4Q4R" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://codeminions.hashnode.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Blog" height="30" width="40" /></a>
 </p>
