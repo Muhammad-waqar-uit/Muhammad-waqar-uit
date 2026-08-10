@@ -11,8 +11,6 @@ I'm a software engineer specializing in full-stack web development and Web3/bloc
 - 🔭 Currently focused on full-stack engineering and Web3 dApp development
 - 💬 Happy to discuss front-end development, Flutter, and blockchain technology
 - 📫 Reach me at: muhammadwaqar.business@gmail.com
-- 🌐 Blog: [codeminions.hashnode.dev](https://codeminions.hashnode.dev/)
-
 <br>
 
 ### Technical Skills
@@ -44,12 +42,6 @@ I'm a software engineer specializing in full-stack web development and Web3/bloc
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-waqar-uit&theme=default" alt="Muhammad Waqar's streak stats" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammad-waqar-uit" alt="Muhammad Waqar's trophies" />
-</a>
 </p>
 
 <br>
