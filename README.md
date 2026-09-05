@@ -29,13 +29,13 @@
 </p>
 
 <!-- ================= 5. 3D LANYARD & PRODUCTION STATS ================= -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
   <tr>
-    <td width="42%" align="center" valign="top">
-      <img src="./lanyard.svg?v=2" alt="Muhammad Waqar Web3 Engineer ID Badge" width="100%">
+    <td style="padding-right: 30px; vertical-align: top;">
+      <img src="./lanyard.svg?v=2" alt="Muhammad Waqar Web3 Engineer ID Badge" width="320">
     </td>
-    <td width="58%" align="center" valign="top">
-      <img src="./stats.svg?v=2" alt="Web3 Engineering Skills and Experience" width="100%">
+    <td style="vertical-align: top;">
+      <img src="./stats.svg?v=2" alt="Web3 Engineering Skills and Experience" width="520">
     </td>
   </tr>
 </table>
