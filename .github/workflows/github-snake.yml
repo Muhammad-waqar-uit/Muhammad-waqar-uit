@@ -1,6 +1,6 @@
 name: Generate Contribution Snake
 
-on:
+'on':
   schedule:
     # Runs automatically every 24 hours at 00:00 UTC
     - cron: "0 0 * * *"
