@@ -50,6 +50,18 @@
   <img src="https://raw.githubusercontent.com/muhammad-waqar-uit/muhammad-waqar-uit/output/github-contribution-grid-snake-dark.svg?v=2" alt="Muhammad Waqar GitHub Contribution Snake" width="100%">
 </p>
 
+<!-- ================= 7.5 ALTERNATE GITHUB IDS ================= -->
+<h2 align="center">🧬 Alternate GitHub IDs</h2>
+<p align="center">
+  <a href="https://github.com/muhammad-waqar-uit" target="_blank">
+    <img src="https://img.shields.io/badge/Primary-@muhammad--waqar--uit-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Primary GitHub ID" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/muhammadwaqarqsol" target="_blank">
+    <img src="https://img.shields.io/badge/Secondary-@muhammadwaqarqsol-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Secondary GitHub ID" />
+  </a>
+</p>
+
 <!-- --- -->
 
 
