@@ -179,15 +179,11 @@
   </a>
   &nbsp;
   <a href="https://example.com/instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@the.cipher.stack-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020617" />
+    <img src="https://img.shields.io/badge/-@the.cipher.stack-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
-  </a>
-  &nbsp;
-  <a href="https://example.com/github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Engineering-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" />
   </a>
 </p>
 
