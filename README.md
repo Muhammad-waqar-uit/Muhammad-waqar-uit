@@ -191,7 +191,7 @@
   </a>
   &nbsp;
   <a href="https://www.instagram.com/imwaqar16/" target="_blank">
-    <img src="https://img.shields.io/badge/-@the.cipher.stack-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
+    <img src="https://img.shields.io/badge/-Muhammad-Waqar-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
   <a href="mailto:muhammadwaqar.business@gmail.com">
