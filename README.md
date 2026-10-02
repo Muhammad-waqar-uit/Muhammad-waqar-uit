@@ -186,15 +186,15 @@
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=020617" />
   </a>
   &nbsp;
-  <a href="https://example.com/linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-w4qar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
-  <a href="https://example.com/instagram" target="_blank">
+  <a href="https://www.instagram.com/imwaqar16/" target="_blank">
     <img src="https://img.shields.io/badge/-@the.cipher.stack-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:muhammadwaqar.business@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
 </p>
