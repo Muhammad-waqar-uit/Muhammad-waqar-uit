@@ -127,6 +127,27 @@
     <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
     <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
     <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <br/>
+    <br/>
+  <h2>🧪 Currently Experimenting</h2>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+    <img src="https://img.shields.io/badge/LLM_Integration-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Integration" />
+    <img src="https://img.shields.io/badge/RAG_Pipelines-8E75B2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Pipelines" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+    <img src="https://img.shields.io/badge/Vector_Databases-24B47E?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector Databases" />
+    <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+    <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Embeddings" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+    <img src="https://img.shields.io/badge/Agentic_Workflows-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic Workflows" />
+    <img src="https://img.shields.io/badge/MCP-6747ED?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+    <img src="https://img.shields.io/badge/On--Chain_AI_Agents-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="On-chain AI agents" />
 </div>
 
 ---
