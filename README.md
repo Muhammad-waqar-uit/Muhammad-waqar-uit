@@ -205,7 +205,9 @@
   <tr>
     <td align="center" valign="middle" width="180">
       <b>Scan for Portfolio</b><br/><br/>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://example.com/portfolio&color=ffb703&bgcolor=12002f&margin=8" alt="Portfolio QR Code" width="140" style="border-radius: 8px;" />
+      <a href="https://waqar-profile.vercel.app">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fwaqar-profile.vercel.app&color=ffb703&bgcolor=12002f&margin=8" alt="Portfolio QR Code" width="140" />
+      </a>
     </td>
     <td align="center" valign="middle">
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=FFB703&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=50&lines=Code+that+works.;Code+that+lasts.;Building+scalable+Web3+systems." alt="Footer Typing" />
