@@ -182,7 +182,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://waqar-profile.vercel.app" target="_blank">
+  <a href="https://muhammad-waqar-uit.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=020617" />
   </a>
   &nbsp;
@@ -205,7 +205,7 @@
   <tr>
     <td align="center" valign="middle" width="180">
       <b>Scan for Portfolio</b><br/><br/>
-      <a href="https://waqar-profile.vercel.app">
+      <a href="https://muhammad-waqar-uit.vercel.app/">
         <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fwaqar-profile.vercel.app&color=ffb703&bgcolor=12002f&margin=8" alt="Portfolio QR Code" width="140" />
       </a>
     </td>
