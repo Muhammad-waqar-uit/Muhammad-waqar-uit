@@ -148,6 +148,12 @@
     <img src="https://img.shields.io/badge/Agentic_Workflows-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic Workflows" />
     <img src="https://img.shields.io/badge/MCP-6747ED?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
     <img src="https://img.shields.io/badge/On--Chain_AI_Agents-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="On-chain AI agents" />
+    <img src="https://img.shields.io/badge/Time_Series_DBs-0F766E?style=for-the-badge&logo=timescale&logoColor=white" alt="Time Series Databases" />
+    <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" alt="TimescaleDB" />
+    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
+    <img src="https://img.shields.io/badge/QuestDB-D14671?style=for-the-badge&logo=questdb&logoColor=white" alt="QuestDB" />
+    <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 </div>
 
 ---
