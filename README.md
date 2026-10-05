@@ -182,7 +182,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://example.com/portfolio" target="_blank">
+  <a href="https://waqar-profile.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=020617" />
   </a>
   &nbsp;
