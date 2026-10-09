@@ -224,6 +224,10 @@
   <a href="mailto:muhammadwaqar.business@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/~muhammad-waqar-uit" target="_blank">
+    <img src="https://img.shields.io/badge/npm%20Profile-muhammad--waqar--uit-0074C1?style=for-the-badge&logo=npm&logoColor=white&labelColor=020617" />
+  </a>
 </p>
 
 <br/>
